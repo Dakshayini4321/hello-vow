@@ -1,0 +1,9 @@
+{
+  "name": "vowvel-invitation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Amelia & Julien · Wedding Celebration Invitation",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
